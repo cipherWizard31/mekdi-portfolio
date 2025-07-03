@@ -16,7 +16,7 @@ const Hero = () => {
     >
       <p className='text-gray-800 text-lg'>Hello,</p>
       <p className="lg:text-7xl text-4xl font-bold text-purple-700">
-        I'm Mekdes Habte
+        I&apos;m Mekdes Habte
       </p>
       <h1 className='text-3xl secondary-font py-2'>Artist/Designer</h1>
       <p className="mt-4 text-gray-600 text-lg secondary-font">

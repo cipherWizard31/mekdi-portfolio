@@ -20,7 +20,7 @@ export default function About() {
         >
           <h1 className="lg:text-5xl text-4xl text-center">About Me</h1>
           <h1 className="text-2xl text-center secondary-font py-3 mb-3">
-            I'm <b className="secondary-font">Mekdes</b> an artist based in
+            I&apos;m <b className="secondary-font">Mekdes</b> an artist based in
             Ethiopia
           </h1>
 
